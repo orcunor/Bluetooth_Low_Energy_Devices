@@ -60,6 +60,4 @@ This application was developed by Orçun Or orcunor6@gmail.com.
 
 It is free software licensed under the MIT License.
 
-License: MIT
-
 The code is partially based on Microsoft Bluetooth LE Explorer and Bluetooth LE Sample.
