@@ -55,9 +55,4 @@ Some debug information available in the "Output" section in Visual St
                 Console.WriteLine("Exception -> ", ex.Message);
             }
         }
-# License
-This application was developed by Orçun Or orcunor6@gmail.com.
 
-It is free software licensed under the MIT License.
-
-The code is partially based on Microsoft Bluetooth LE Explorer and Bluetooth LE Sample.
