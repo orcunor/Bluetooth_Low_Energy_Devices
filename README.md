@@ -7,6 +7,17 @@ You can check the Bluetooth Documentation.pdf file I prepared for documentation.
 # Requirements:
 Windows 10, BT 4.0 adapter
 
+# Build in Visual Studio
+For building from source, Microsoft Visual Studio is required (free, Community edition will work).
+
+Start Microsoft Visual Studio and select File > Open > Project/Solution.
+Double-click the Visual Studio Solution (.sln) file.
+Press Ctrl+Shift+B, or select Build > Build Solution.
+# Run the debug session
+To debug the application and then run it, press F5 or select Debug > Start Debugging. To run without debugging, press Ctrl+F5 or selectDebug > Start Without Debugging.
+
+Some debug information available in the "Output" section in Visual St
+
 # Example of code:
 
     public void StartWatcher()
