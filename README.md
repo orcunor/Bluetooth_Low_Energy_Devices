@@ -4,11 +4,12 @@ Seeing nearby bluetooth-low-energy devices, getting information about devices by
 # Documentation
 You can check the Bluetooth Documentation.pdf file I prepared for documentation. 
 
-Requirements:
+# Requirements:
 Windows 10, BT 4.0 adapter
 
-Example of code:
-public void StartWatcher()
+# Example of code:
+
+ public void StartWatcher()
         {
             try
             {
