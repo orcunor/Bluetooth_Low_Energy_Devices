@@ -9,10 +9,10 @@ Windows 10, BT 4.0 adapter
 
 # Example of code:
 
- public void StartWatcher()
-        {
-            try
-            {
+    public void StartWatcher()
+           {
+               try
+               {
 
                 string[] requestedProperties = { "System.Devices.Aep.DeviceAddress", "System.Devices.Aep.IsConnected", "System.Devices.Aep.Manufacturer", "System.Devices.Aep.ModelName", "System.Devices.Aep.ModelId" };
 
@@ -36,8 +36,6 @@ Windows 10, BT 4.0 adapter
                 // Start the watcher.
                 deviceWatcher.Start();
 
-
-
             }
 
             catch (Exception ex)
@@ -45,6 +43,4 @@ Windows 10, BT 4.0 adapter
 
                 Console.WriteLine("Exception -> ", ex.Message);
             }
-
-
         }
