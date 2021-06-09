@@ -5,7 +5,7 @@ Seeing nearby bluetooth-low-energy devices, getting information about devices by
 You can check the Bluetooth Documentation.pdf file I prepared for documentation. 
 
 # Requirements:
-Windows 10, BT 4.0 adapter
+Windows 10, atleast BT 4.0 adapter or above
 
 # Build in Visual Studio
 For building from source, Microsoft Visual Studio is required (free, Community edition will work).
