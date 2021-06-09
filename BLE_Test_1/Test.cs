@@ -16,12 +16,22 @@ namespace BLE_Test_1
         {
             //This is test when you created instance StartBleWatcher Method will start automatically
             BLEControllers bLEControllers = new BLEControllers();
+            bLEControllers.StartAdvertisementWatcher();
+
+            //bLEControllers.StartWatcher();
+            //bLEControllers.StartBleDeviceWatcher();
+            //bLEControllers.ConnectDeviceWithName("StockArtScan-F401");
+
+            //bLEControllers.ShowPairingDevices();
+
+
+
+
+
 
             Console.Read();
         }
-
-
-        
+    
     }
 
 
